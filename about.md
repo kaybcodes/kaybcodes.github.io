@@ -12,7 +12,8 @@ Whether it’s through front-end interfaces, interactive visuals, or thoughtful 
 Outside of code, I’m probably listening to music 🎶, sketching ideas ✏️, or designing and elevating my personal brand. I love art 🎨, video
 games 🎮, and exploring new places ✈️. Creativity fuels me just as much as logic does, and I try to bring a bit of both into everything I do.
 
-
 ### Contact me 📧 
 
 [kayla.bobo@sus.edu](mailto:kayla.bobo@subr.edu)
+
+![_.yml]({{site.baseurl}}/images/.png)

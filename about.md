@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Kayla Bobo and I am a Computer Science student attenting Southern University and A&M College in Baton Rouge, LA. I have a concentration in Mobile App Development. 
 
 ### More Information
 

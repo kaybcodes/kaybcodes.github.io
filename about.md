@@ -16,4 +16,4 @@ games 🎮, and exploring new places ✈️. Creativity fuels me just as much as
 
 [kayla.bobo@sus.edu](mailto:kayla.bobo@subr.edu)
 
-![_.yml]({{site.baseurl}}/images/.png)
+![_sudome.yml]({{site.baseurl}}/images/sudome.png)

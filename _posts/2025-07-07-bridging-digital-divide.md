@@ -4,7 +4,6 @@ title: "Bridging the Digital Divide with Technology"
 date: 2025-07-07
 ---
 ### 🌍 One Challenge I Want to Solve with Technology 💻 
-
 One of the biggest challenges I want to tackle through technology is the **digital divide**—the gap between those who have access to modern
 digital tools and those who don’t. Growing up, I witnessed how lack of internet access and limited exposure to technology can hold people
 back, especially in Black and rural communities. It affects everything from education to job opportunities to access to basic services. As a

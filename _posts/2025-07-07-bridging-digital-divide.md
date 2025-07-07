@@ -12,3 +12,10 @@ empowerment. My dream is to build mobile apps that don’t require constant inte
 tech skill-building, and practical knowledge to families and students in underserved areas. I want to help make sure that no one is left
 behind in the digital age just because of where they live or how much money they make.
 
+### 👴🏽 Who I’d Tell First
+If I could share this accomplishment with anyone, it would be my grandfather, who passed away in September 2024. He was a strong believer in
+the power of education and always encouraged our family to pursue it wholeheartedly. He saw education as a gateway to opportunity,
+especially for young Black students, and he reminded us often that knowledge was something no one could take away. Even though he's no
+longer physically here, I carry his words with me in everything I do. T
+
+

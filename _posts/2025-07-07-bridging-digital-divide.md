@@ -27,4 +27,5 @@ built specifically for areas with limited connectivity. It delivers high-quality
 over the world to help close learning gaps. Projects like these show how technology can be used to serve—not just profit. They remind me
 that I can start contributing in ways that align with my values while continuing to grow my skills as a mobile developer.
 
+![_nelson.yml]({{site.baseurl}}/images/nelson.png)
 

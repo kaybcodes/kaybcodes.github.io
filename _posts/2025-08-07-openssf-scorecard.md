@@ -14,7 +14,7 @@ the project has strong community support and isn't being held up by just a small
 were 15 commits just in the last month, and it seems like pull requests and issues are constantly getting updated or merged. I noticed
 maintainers respond quickly and tag things well, which shows they’re paying attention. If I wanted to contribute, I’d start by reading
 through the README and CONTRIBUTING.md files. They lay out what you need to install, how the tool works, and how to submit changes. Then I’d
-look for “good first issue” tags or open discussions where I could learn more about what’s currently being worked on. Running the Scorecard
+look for good first issue tags or open discussions where I could learn more about what’s currently being worked on. Running the Scorecard
 tool locally is also a good way to get comfortable with what it does. Even if I wasn’t ready to contribute code, just using the tool would
 help me understand how the pieces fit together.
 

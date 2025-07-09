@@ -18,7 +18,7 @@ Issues. There are quite a few open items, but the devs respond regularly and cat
 worked on. The devs seem responsive and transparent about the status of reported bugs. 
 
 If I were to try downloading and setting up p5.js locally, I’d expect the process to be pretty quick and straightforward. Since it’s just a
-JavaScript library that can be included with a simple <script> tag in an HTML file, setup would probably take under 10 minutes. The
+JavaScript library that can be included with a simple script tag in an HTML file, setup would probably take under 10 minutes. The
 documentation walks you through it step by step, and there’s even an option to use the p5.js web editor, which wouldn’t require any
 downloading at all. So overall, I imagine it would be very beginner-friendly and manageable. Most of the visible communication happens on
 GitHub through issues and pull requests. They also mention using Slack and community forums to stay connected and coordinate work. P5.js

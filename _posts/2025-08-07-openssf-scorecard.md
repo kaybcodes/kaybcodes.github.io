@@ -1,8 +1,11 @@
+---
 layout: post
 title: "Exploring OpenSSF Scorecard!"
 date: 2025-08-07
 ---
+
 ### OpenSSF Scorecard 🛡️
+
 Today I looked into OpenSSF Scorecard, a security tool for open source projects. It scans repositories to check whether they're following
 best practices like using CI, pinning dependencies, and setting branch protection rules. It's especially helpful for developers and users
 who want to know whether a project is responsibly maintained.Over the last 30 days, four people committed code to the project,  and three of
